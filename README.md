@@ -1,1 +1,2 @@
-This is a readme
+# Salta
+A template for an academic portfolio.
